@@ -17,7 +17,7 @@ public class AnimalsCage {
     private Timer timer;
 
     public Timer getTimer() {
-        return new Timer();
+        return timer;
     }
 
     public void whatAnimalSay() {
